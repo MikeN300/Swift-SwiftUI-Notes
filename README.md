@@ -1,4 +1,4 @@
-# Swift/SwiftUI - Quick Refernce
+# Swift/SwiftUI - Quick Reference
 A quick reference guide for Swift/SwiftUI
 
 ## Swift Fundamentals
