@@ -41,3 +41,6 @@ print(cities.sorted())
 print(cities.reversed())
 ```
 
+## Addional reading:
+* [Apple Array documentaion](https://developer.apple.com/documentation/swift/array)
+* [100 Days of SwiftUI day 3](https://www.hackingwithswift.com/100/swiftui/3)
