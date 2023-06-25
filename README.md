@@ -3,28 +3,28 @@ A quick reference guide for Swift/SwiftUI
 
 ## Swift Fundamentals
 # Data types/Objects
-	* [Strings, Ints, Doubles, Bools](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Strings-Ints-Bools/README.md)
+* [Strings, Ints, Doubles, Bools](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Strings-Ints-Bools/README.md)
 			* [String Interopolation](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/String-Interpolation/README.md)
-	* [Arrays](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Arrays/README.md)
-	* [Dictionaries](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Dictionaries/README.md)
-	* [Sets](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Sets/README.md)
-	* [Enums](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Enums/README.md)
-	* [Classes](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Classes/README.md)
-	* [Class Inheritance](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Class-Inheritance/README.md)
-	* [Type Annotations](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Type-Annotaions/README.md)
-	* [Structs](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Structs/README.md)
+* [Arrays](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Arrays/README.md)
+* [Dictionaries](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Dictionaries/README.md)
+* [Sets](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Sets/README.md)
+* [Enums](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Enums/README.md)
+* [Classes](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Classes/README.md)
+* [Class Inheritance](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Class-Inheritance/README.md)
+* [Type Annotations](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Type-Annotaions/README.md)
+* [Structs](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Structs/README.md)
 
 
 # Operators
-	* [Variables and Constants](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Variables-and-Constants/README.md)
-	* [Throwing Functions](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Throwing-Functions/README.md)
-	* [Func, Parameters/Args, Return Values](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Func-Parameters-Args-Return-Values/README.md)
-	* [Methods](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Methods/README.md)
-	* [If/Else, For, While](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/If-else-for-while/README.md)
-	* [Switch](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Switch/README.md)
-	* [Ternary Operator](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Ternary-Operator/README.md)
-	* [Getters and Setters](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Getters-Setters/README.md)
-	* [Initializers](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Initializers/README.md)
+* [Variables and Constants](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Variables-and-Constants/README.md)
+* [Throwing Functions](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Throwing-Functions/README.md)
+* [Func, Parameters/Args, Return Values](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Func-Parameters-Args-Return-Values/README.md)
+* [Methods](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Methods/README.md)
+* [If/Else, For, While](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/If-else-for-while/README.md)
+* [Switch](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Switch/README.md)
+* [Ternary Operator](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Ternary-Operator/README.md)
+* [Getters and Setters](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Getters-Setters/README.md)
+* [Initializers](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Initializers/README.md)
 
 
 * [Access Control](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Access-Control/README.md)
