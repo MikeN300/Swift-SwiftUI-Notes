@@ -4,7 +4,7 @@ A quick reference guide for Swift/SwiftUI
 ## Swift Fundamentals
 # Data types/Objects
 * [Strings, Ints, Doubles, Bools](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Strings-Ints-Bools/README.md)
-			* [String Interopolation](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/String-Interpolation/README.md)
+* [String Interopolation](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/String-Interpolation/README.md)
 * [Arrays](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Arrays/README.md)
 * [Dictionaries](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Dictionaries/README.md)
 * [Sets](https://github.com/MikeN300/Swift-SwiftUI-Starter-Kit/blob/main/Swift/Basics/Sets/README.md)
