@@ -1,4 +1,4 @@
-# Swift-SwiftUI-Starter-Kit
+# Swift/SwiftUI - Quick Refernce
 A quick reference guide for Swift/SwiftUI
 
 ## Swift Fundamentals
